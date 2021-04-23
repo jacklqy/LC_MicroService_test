@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.GatewayDemo\\Zhaoxi.MicroService.GatewayDemo.csproj": {}
+    "D:\\github\\LC_MicroService_test\\Zhaoxi.MicroService.GatewayDemo\\Zhaoxi.MicroService.GatewayDemo.csproj": {}
   },
   "projects": {
-    "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.GatewayDemo\\Zhaoxi.MicroService.GatewayDemo.csproj": {
+    "D:\\github\\LC_MicroService_test\\Zhaoxi.MicroService.GatewayDemo\\Zhaoxi.MicroService.GatewayDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.GatewayDemo\\Zhaoxi.MicroService.GatewayDemo.csproj",
+        "projectUniqueName": "D:\\github\\LC_MicroService_test\\Zhaoxi.MicroService.GatewayDemo\\Zhaoxi.MicroService.GatewayDemo.csproj",
         "projectName": "Zhaoxi.MicroService.GatewayDemo",
-        "projectPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.GatewayDemo\\Zhaoxi.MicroService.GatewayDemo.csproj",
+        "projectPath": "D:\\github\\LC_MicroService_test\\Zhaoxi.MicroService.GatewayDemo\\Zhaoxi.MicroService.GatewayDemo.csproj",
         "packagesPath": "C:\\Users\\BRH201\\.nuget\\packages\\",
-        "outputPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.GatewayDemo\\obj\\",
+        "outputPath": "D:\\github\\LC_MicroService_test\\Zhaoxi.MicroService.GatewayDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BRH201\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4xr/ttCzFItjRhLaT7Ahomk/g0oQZf3vw5kG6WYMUOk7LCdsL3sQUtkyqyl6ag6hq0yhxbIW5YEya2+t49hAzg==",
+  "dgSpecHash": "PhJO4WXFzZxjGL61Tvd/d2pcdkP6BGj/fwMTRyRgURb2fpvJz4Iu27HQDkHtDzz82jUBXd31B3eAaBONGFW+YQ==",
   "success": true,
-  "projectFilePath": "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.AuthenticationCenter\\Zhaoxi.MicroService.AuthenticationCenter.csproj",
+  "projectFilePath": "D:\\github\\LC_MicroService_test\\Zhaoxi.MicroService.AuthenticationCenter\\Zhaoxi.MicroService.AuthenticationCenter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BRH201\\.nuget\\packages\\identitymodel\\4.1.1\\identitymodel.4.1.1.nupkg.sha512",
     "C:\\Users\\BRH201\\.nuget\\packages\\identityserver4\\3.1.4\\identityserver4.3.1.4.nupkg.sha512",

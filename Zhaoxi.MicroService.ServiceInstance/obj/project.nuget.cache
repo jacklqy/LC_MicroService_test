@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ksqmp/S9m9J96T5ZCjBBvNlOX8Xctja0b8IUBjWrk/6inTlMTwAQEMYpAyjxZwb9hts/shZ6vqsNx6o6EPknHg==",
+  "dgSpecHash": "aBYVYy2ApzxyJUA3GrTPCRMT/ft7qvC5k1ElYl6GNuoZR/610OIuW8hrzHHAOAX7j3pmJddIyGnxd0iKss6lHA==",
   "success": true,
-  "projectFilePath": "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.ServiceInstance\\Zhaoxi.MicroService.ServiceInstance.csproj",
+  "projectFilePath": "D:\\github\\LC_MicroService_test\\Zhaoxi.MicroService.ServiceInstance\\Zhaoxi.MicroService.ServiceInstance.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BRH201\\.nuget\\packages\\consul\\1.6.1.1\\consul.1.6.1.1.nupkg.sha512",
     "C:\\Users\\BRH201\\.nuget\\packages\\identitymodel\\4.0.0\\identitymodel.4.0.0.nupkg.sha512",

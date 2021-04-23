@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.Interface\\Zhaoxi.MicroService.Interface.csproj": {}
+    "D:\\github\\LC_MicroService_test\\Zhaoxi.MicroService.Interface\\Zhaoxi.MicroService.Interface.csproj": {}
   },
   "projects": {
-    "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.Interface\\Zhaoxi.MicroService.Interface.csproj": {
+    "D:\\github\\LC_MicroService_test\\Zhaoxi.MicroService.Interface\\Zhaoxi.MicroService.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.Interface\\Zhaoxi.MicroService.Interface.csproj",
+        "projectUniqueName": "D:\\github\\LC_MicroService_test\\Zhaoxi.MicroService.Interface\\Zhaoxi.MicroService.Interface.csproj",
         "projectName": "Zhaoxi.MicroService.Interface",
-        "projectPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.Interface\\Zhaoxi.MicroService.Interface.csproj",
+        "projectPath": "D:\\github\\LC_MicroService_test\\Zhaoxi.MicroService.Interface\\Zhaoxi.MicroService.Interface.csproj",
         "packagesPath": "C:\\Users\\BRH201\\.nuget\\packages\\",
-        "outputPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.Interface\\obj\\",
+        "outputPath": "D:\\github\\LC_MicroService_test\\Zhaoxi.MicroService.Interface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BRH201\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.Model\\Zhaoxi.MicroService.Model.csproj": {
-                "projectPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.Model\\Zhaoxi.MicroService.Model.csproj"
+              "D:\\github\\LC_MicroService_test\\Zhaoxi.MicroService.Model\\Zhaoxi.MicroService.Model.csproj": {
+                "projectPath": "D:\\github\\LC_MicroService_test\\Zhaoxi.MicroService.Model\\Zhaoxi.MicroService.Model.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.Model\\Zhaoxi.MicroService.Model.csproj": {
+    "D:\\github\\LC_MicroService_test\\Zhaoxi.MicroService.Model\\Zhaoxi.MicroService.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.Model\\Zhaoxi.MicroService.Model.csproj",
+        "projectUniqueName": "D:\\github\\LC_MicroService_test\\Zhaoxi.MicroService.Model\\Zhaoxi.MicroService.Model.csproj",
         "projectName": "Zhaoxi.MicroService.Model",
-        "projectPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.Model\\Zhaoxi.MicroService.Model.csproj",
+        "projectPath": "D:\\github\\LC_MicroService_test\\Zhaoxi.MicroService.Model\\Zhaoxi.MicroService.Model.csproj",
         "packagesPath": "C:\\Users\\BRH201\\.nuget\\packages\\",
-        "outputPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.Model\\obj\\",
+        "outputPath": "D:\\github\\LC_MicroService_test\\Zhaoxi.MicroService.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BRH201\\AppData\\Roaming\\NuGet\\NuGet.Config",

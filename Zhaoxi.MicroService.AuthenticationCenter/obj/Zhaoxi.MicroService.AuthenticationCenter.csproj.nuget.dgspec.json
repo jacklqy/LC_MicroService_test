@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.AuthenticationCenter\\Zhaoxi.MicroService.AuthenticationCenter.csproj": {}
+    "D:\\github\\LC_MicroService_test\\Zhaoxi.MicroService.AuthenticationCenter\\Zhaoxi.MicroService.AuthenticationCenter.csproj": {}
   },
   "projects": {
-    "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.AuthenticationCenter\\Zhaoxi.MicroService.AuthenticationCenter.csproj": {
+    "D:\\github\\LC_MicroService_test\\Zhaoxi.MicroService.AuthenticationCenter\\Zhaoxi.MicroService.AuthenticationCenter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.AuthenticationCenter\\Zhaoxi.MicroService.AuthenticationCenter.csproj",
+        "projectUniqueName": "D:\\github\\LC_MicroService_test\\Zhaoxi.MicroService.AuthenticationCenter\\Zhaoxi.MicroService.AuthenticationCenter.csproj",
         "projectName": "Zhaoxi.MicroService.AuthenticationCenter",
-        "projectPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.AuthenticationCenter\\Zhaoxi.MicroService.AuthenticationCenter.csproj",
+        "projectPath": "D:\\github\\LC_MicroService_test\\Zhaoxi.MicroService.AuthenticationCenter\\Zhaoxi.MicroService.AuthenticationCenter.csproj",
         "packagesPath": "C:\\Users\\BRH201\\.nuget\\packages\\",
-        "outputPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.AuthenticationCenter\\obj\\",
+        "outputPath": "D:\\github\\LC_MicroService_test\\Zhaoxi.MicroService.AuthenticationCenter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BRH201\\AppData\\Roaming\\NuGet\\NuGet.Config",

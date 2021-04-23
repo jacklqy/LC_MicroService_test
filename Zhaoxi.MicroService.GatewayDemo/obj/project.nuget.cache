@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IgouoIJhlAk9tsI+VT6/KlXhz+sBYcHh77pNQsHVWg25j2Utr0pDWpcNIofbGpLWAIkohsU5qLiITm80Sk8CVg==",
+  "dgSpecHash": "zAPfbJbdW4vevjRzVhs9mbkcnQkVhHxfItAsaT8GngMOMixMc/pqOLlBCTGrPMdck/9gX57dRgUAJtwdyTabYg==",
   "success": true,
-  "projectFilePath": "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.GatewayDemo\\Zhaoxi.MicroService.GatewayDemo.csproj",
+  "projectFilePath": "D:\\github\\LC_MicroService_test\\Zhaoxi.MicroService.GatewayDemo\\Zhaoxi.MicroService.GatewayDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BRH201\\.nuget\\packages\\cachemanager.core\\2.0.0-beta-1629\\cachemanager.core.2.0.0-beta-1629.nupkg.sha512",
     "C:\\Users\\BRH201\\.nuget\\packages\\cachemanager.microsoft.extensions.configuration\\2.0.0-beta-1629\\cachemanager.microsoft.extensions.configuration.2.0.0-beta-1629.nupkg.sha512",

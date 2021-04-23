@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sJfzuzx/Fsewr3lESqvd7FI0pd8jIzhozJIk33HkvBhLHr2+FxbED3O5Ot737aldFXKrZjCgRO97Ie3aNnwlUQ==",
+  "dgSpecHash": "5CjWDDwVwk3h2aykgkBGMYg+C2yWMiz27MUe+FYhdqhlaJ0HWKZP3UcXp0QXdD5B2MgpJv/AzKqcExZYfZK38Q==",
   "success": true,
-  "projectFilePath": "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.Interface\\Zhaoxi.MicroService.Interface.csproj",
+  "projectFilePath": "D:\\github\\LC_MicroService_test\\Zhaoxi.MicroService.Interface\\Zhaoxi.MicroService.Interface.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
