@@ -44,3 +44,5 @@ docker run -itd -p 7200:80 ids4.0422        ##启动容器实例
 ![image](https://user-images.githubusercontent.com/26539681/115857447-49fc0180-a460-11eb-94f1-e4f5d83faee7.png)
 ![image](https://user-images.githubusercontent.com/26539681/115857469-51230f80-a460-11eb-8493-26d99528d948.png)
 ![image](https://user-images.githubusercontent.com/26539681/115858056-11a8f300-a461-11eb-9808-f9bf491d2384.png)
+
+希望为.net开源社区尽绵薄之力，探lu者###一直在探索前进的路上###（QQ:529987528）
