@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>f3a9088c-a78a-4f48-8d0d-5871b3a2b278</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Consul" Version="1.6.1.1" />
+    <PackageReference Include="IdentityServer4.AccessTokenValidation" Version="3.0.1" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.8" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Zhaoxi.MicroService.Interface\Zhaoxi.MicroService.Interface.csproj" />
+    <ProjectReference Include="..\Zhaoxi.MicroService.Model\Zhaoxi.MicroService.Model.csproj" />
+    <ProjectReference Include="..\Zhaoxi.MicroService.Service\Zhaoxi.MicroService.Service.csproj" />
+  </ItemGroup>
+
+
+</Project>

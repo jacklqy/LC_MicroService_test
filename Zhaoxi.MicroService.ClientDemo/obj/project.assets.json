@@ -1,0 +1,221 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Consul/1.6.1.1": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "10.0.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/Consul.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Consul.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "Zhaoxi.MicroService.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Zhaoxi.MicroService.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Zhaoxi.MicroService.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Zhaoxi.MicroService.Interface.dll": {}
+        }
+      },
+      "Zhaoxi.MicroService.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Zhaoxi.MicroService.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Zhaoxi.MicroService.Model.dll": {}
+        }
+      },
+      "Zhaoxi.MicroService.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Zhaoxi.MicroService.Interface": "1.0.0",
+          "Zhaoxi.MicroService.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Zhaoxi.MicroService.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Zhaoxi.MicroService.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Consul/1.6.1.1": {
+      "sha512": "AJkBiix1bT3cSZRO6OD0Ee31Co1qgVkmVBFwpxym9WdxH5K6LfmAZ8Vb8nGvo9EKC+ir2sv5fKIrY75aENcMDA==",
+      "type": "package",
+      "path": "consul/1.6.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "consul.1.6.1.1.nupkg.sha512",
+        "consul.nuspec",
+        "lib/net461/Consul.dll",
+        "lib/netstandard2.0/Consul.dll"
+      ]
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "Zhaoxi.MicroService.Interface/1.0.0": {
+      "type": "project",
+      "path": "../Zhaoxi.MicroService.Interface/Zhaoxi.MicroService.Interface.csproj",
+      "msbuildProject": "../Zhaoxi.MicroService.Interface/Zhaoxi.MicroService.Interface.csproj"
+    },
+    "Zhaoxi.MicroService.Model/1.0.0": {
+      "type": "project",
+      "path": "../Zhaoxi.MicroService.Model/Zhaoxi.MicroService.Model.csproj",
+      "msbuildProject": "../Zhaoxi.MicroService.Model/Zhaoxi.MicroService.Model.csproj"
+    },
+    "Zhaoxi.MicroService.Service/1.0.0": {
+      "type": "project",
+      "path": "../Zhaoxi.MicroService.Service/Zhaoxi.MicroService.Service.csproj",
+      "msbuildProject": "../Zhaoxi.MicroService.Service/Zhaoxi.MicroService.Service.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Consul >= 1.6.1.1",
+      "Newtonsoft.Json >= 12.0.3",
+      "Zhaoxi.MicroService.Interface >= 1.0.0",
+      "Zhaoxi.MicroService.Model >= 1.0.0",
+      "Zhaoxi.MicroService.Service >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\BRH201\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.ClientDemo\\Zhaoxi.MicroService.ClientDemo.csproj",
+      "projectName": "Zhaoxi.MicroService.ClientDemo",
+      "projectPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.ClientDemo\\Zhaoxi.MicroService.ClientDemo.csproj",
+      "packagesPath": "C:\\Users\\BRH201\\.nuget\\packages\\",
+      "outputPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.ClientDemo\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\BRH201\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.Interface\\Zhaoxi.MicroService.Interface.csproj": {
+              "projectPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.Interface\\Zhaoxi.MicroService.Interface.csproj"
+            },
+            "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.Model\\Zhaoxi.MicroService.Model.csproj": {
+              "projectPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.Model\\Zhaoxi.MicroService.Model.csproj"
+            },
+            "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.Service\\Zhaoxi.MicroService.Service.csproj": {
+              "projectPath": "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.Service\\Zhaoxi.MicroService.Service.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "Consul": {
+            "target": "Package",
+            "version": "[1.6.1.1, )"
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[12.0.3, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.13, 3.1.13]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

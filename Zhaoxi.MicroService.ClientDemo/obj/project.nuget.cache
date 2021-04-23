@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HG6EbRBXJAWwAYMWsrkD6HGCOE3nSV7k2PhjcauyxEBnDeLfynMX3UFfZUlRhz8HYJ5br8B8BxbCehroo8usHw==",
+  "success": true,
+  "projectFilePath": "D:\\BaiduNetdiskDownload\\Zhaoxi.MicroService.DemoProject\\Zhaoxi.MicroService.ClientDemo\\Zhaoxi.MicroService.ClientDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BRH201\\.nuget\\packages\\consul\\1.6.1.1\\consul.1.6.1.1.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\BRH201\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

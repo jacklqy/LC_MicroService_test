@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Zhaoxi.MicroService.Service/1.0.0": {
+        "dependencies": {
+          "Zhaoxi.MicroService.Interface": "1.0.0",
+          "Zhaoxi.MicroService.Model": "1.0.0"
+        },
+        "runtime": {
+          "Zhaoxi.MicroService.Service.dll": {}
+        }
+      },
+      "Zhaoxi.MicroService.Interface/1.0.0": {
+        "dependencies": {
+          "Zhaoxi.MicroService.Model": "1.0.0"
+        },
+        "runtime": {
+          "Zhaoxi.MicroService.Interface.dll": {}
+        }
+      },
+      "Zhaoxi.MicroService.Model/1.0.0": {
+        "runtime": {
+          "Zhaoxi.MicroService.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zhaoxi.MicroService.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Zhaoxi.MicroService.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Zhaoxi.MicroService.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

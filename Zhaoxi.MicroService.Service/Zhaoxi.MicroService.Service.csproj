@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Zhaoxi.MicroService.Interface\Zhaoxi.MicroService.Interface.csproj" />
+    <ProjectReference Include="..\Zhaoxi.MicroService.Model\Zhaoxi.MicroService.Model.csproj" />
+  </ItemGroup>
+
+</Project>
